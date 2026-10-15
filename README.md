@@ -1,4 +1,4 @@
-# Marisqueiras da Ilha
+# Marisqueiras da Ilha - Plataforma Marisquês
 
 Modelagem em Programação Orientada a Objetos de um sistema de **comercialização direta de mariscos** entre empresas das marisqueiras e empresas compradoras (modelo B2B). O caso inicial de estudo é a Vila Maresia, em Raposa (MA). Trabalho da disciplina de POO (UNDB).
 
